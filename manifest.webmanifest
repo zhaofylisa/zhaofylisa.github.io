@@ -1,0 +1,18 @@
+{
+  "name": "Fengyue Zhao",
+  "short_name": "Fengyue Zhao",
+  "lang": "en-us",
+  "theme_color": "#284f7a",
+  "background_color": "#284f7a",
+  "icons": [{
+    "src": "/media/icon_hue854a9b30fb922fb3d3c3364522a6c71_5527420_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hue854a9b30fb922fb3d3c3364522a6c71_5527420_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

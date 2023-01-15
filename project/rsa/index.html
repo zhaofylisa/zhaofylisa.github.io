@@ -1,0 +1,1112 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.1.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Apply bayesian models to model pronoun ambiguity resolution." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="/project/rsa/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#284f7a" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Source+Sans+Pro:wght@200;300;400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Source+Sans+Pro:wght@200;300;400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.d2e063f399711f45c2b58b9aad5623c6.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hue854a9b30fb922fb3d3c3364522a6c71_5527420_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hue854a9b30fb922fb3d3c3364522a6c71_5527420_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="/project/rsa/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Fengyue Zhao" />
+  <meta property="og:url" content="/project/rsa/" />
+  <meta property="og:title" content="Probabilistic Listener: A Case of Reflexive ziji &#39;self&#39; Ambiguity Resolution in Mandarin | Fengyue Zhao" />
+  <meta property="og:description" content="Apply bayesian models to model pronoun ambiguity resolution." /><meta property="og:image" content="/project/rsa/featured.jpg" />
+    <meta property="twitter:image" content="/project/rsa/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2023-01-14T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2023-01-14T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/project/rsa/"
+  },
+  "headline": "Probabilistic Listener: A Case of Reflexive ziji 'self' Ambiguity Resolution in Mandarin",
+  
+  "image": [
+    "/project/rsa/featured.jpg"
+  ],
+  
+  "datePublished": "2023-01-14T00:00:00Z",
+  "dateModified": "2023-01-14T00:00:00Z",
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Fengyue Zhao",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/icon_hue854a9b30fb922fb3d3c3364522a6c71_5527420_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Apply bayesian models to model pronoun ambiguity resolution."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Probabilistic Listener: A Case of Reflexive ziji &#39;self&#39; Ambiguity Resolution in Mandarin | Fengyue Zhao</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="2c7006d6f26b8dad1728f27ff9f68881" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.20eb0f3c4d04d41882b841af9fbef98c.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Fengyue Zhao</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Fengyue Zhao</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="article-container pt-3">
+  <h1>Probabilistic Listener: A Case of Reflexive ziji &#39;self&#39; Ambiguity Resolution in Mandarin</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 14, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/files/RSA/RSA_pdf.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="/files/RSA/RSA_slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 836px; max-height: 670px;">
+  <div style="position: relative">
+    <img src="/project/rsa/featured.jpg" alt="" class="featured-image">
+    <span class="article-header-caption">Picture adopted from Goodman &amp; Frank 2016.</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h3 id="probabilistic-listener-a-case-of-reflexive-ziji-self-ambiguity-resolution-in-mandarin">Probabilistic Listener: A Case of Reflexive ziji &ldquo;self&rdquo; Ambiguity Resolution in Mandarin</h3>
+<p>What mechanisms do people use to resolve ambiguous pronouns? Prior studies have tried to identify factors that contribute to the resolution mechanisms, such as first-mention biases [1], verb semantics [2], and world knowledge[3]. These principles usually only make categorical predictions instead of continuous predictions about experimental data. Probabilistic models are another promising attempt [4][5][6][7]. This study aims to test the generality of two Bayesian models — the Simple Bayesian model (SBM) and the Rational Speech Act model (RSA) — on pronoun ambiguity resolution in Mandarin Chinese in the case of the reflexive pronoun ziji &ldquo;self&rdquo;. SBM has been examined to make good quantitative predictions for Chinese, but only for across-sentence relations in discourses with personal pronouns [7]. RSA has been examined in pronoun resolution in French and English [6]. This study provides cross-linguistic evidence to support both Bayesian models, investigating within-sentence relations with Chinese reflexive pronouns which are often considered to be regulated by a distinct set of grammatical principles than discourse anaphors.</p>
+<pre><code>  (1)  [小红]i  说    [小明]j   总      把      [自己]i/j    弄糊涂。
+      [Hong]i  says  [Ming]j always   BA     [ziji]i/j   confuses.
+      ‘[Hong]i says that [Ming]j always confuses [self]i/j.’
+</code></pre>
+<p><strong>The resolution of reflexive ziji</strong>: Reflexive in Mandarin may take a simplex form — ziji “self” which permits both local (e.g. Ming in 1) and non-local (e.g. Hong in 1) referent interpretation [8]. In Experiment 1 (Nsubj=135, Nitem=30), we measured Mandarin speakers’ preferences for resolving ziji in ambiguous sentences with an antecedent selection task. Stimuli have the sentence structure in (1), differing only in the verb. We found that comprehenders preferred local antecedents 59% of the time on average. This non-randomly distributed result showed that people have strategies to resolve this ambiguous reflexive. Moreover, the preference of non-local antecedents ranged between 9% and 88% across items. This non-uniform result showed that preferences and extent of preferences differ across stimuli items. Therefore, item-by-item quantitative analysis is necessary to test if two models can capture this item variation.</p>
+<p><img src="/files/RSA/RSA_pic1.png" alt="Formulars"></p>
+<p><strong>Two Bayesian Models</strong>: The Simple Bayesian model (SBM) models the listener’s probability of selecting  a specific referent as proportional to their prior that this referent will be mentioned next, and the likelihood that a speaker will produce this pronoun when signaling a specific referent (see Formula 1) [5]. The Rational Speech Act model (RSA) suggests that listeners assume speakers are rational agents who have already chosen the best utterance among all possible options to convey intended information. Listeners combine this recursive thinking with their prior world knowledge to interpret ambiguous pronouns (see Formula 2) [4]. To evaluate these models’ fit against our data, we estimated: P(referent) in both models in Experiment 2, a world knowledge bias test (Nsubj=28, Nitem=30); P(utterance | referent) in SBM in Experiment 3, a pronoun production task (Nsubj=65, Nitem=30); Cost(utterance) in RSA in a corpus study (Ntoken=16.5 billion) which is the logarithm of the frequency of each pronoun in a certain sentence structure. If listeners processing ambiguous pronouns follows SBM/RSA, there should be a strong correlation between the Experiment 1 results and SBM/RSA predictions.</p>
+<figure>
+<img src="/files/RSA/RSA_pic2.png" alt="Trulli" style="width:50%">
+<img src="/files/RSA/RSA_pic3.png" alt="Trulli" style="width:50%">
+<figcaption align = "center"><b>Fig.1 - Fit RSA model predictions (top) and SBM model predictions (bottom) with experimental data from Experiment 1 on an item-by-item basis.</b></figcaption>
+</figure>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>R-squared</th>
+<th>MSE</th>
+<th style="text-align:right">MAE</th>
+<th>P-value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SBM</td>
+<td>0.598</td>
+<td>0.025</td>
+<td style="text-align:right">0.138</td>
+<td>0.0007</td>
+</tr>
+<tr>
+<td>RSA</td>
+<td>0.674</td>
+<td>0.006</td>
+<td style="text-align:right">0.048</td>
+<td>0.0002</td>
+</tr>
+</tbody>
+</table>
+<p style ="text-align: center;"><b><span style="font-size:0.8em">Table 1. R-squared, MSE, MAE, and P-value of the two models for model evaluations.</span></b></p>
+<p><strong>Results and Discussions</strong>: Item-by-item quantitative analysis in Fig.1 shows that both SBM and RSA can make accurate predictions for the resolution of the ambiguous pronoun ziji (R2&gt;0.59, p&lt;0.001), providing a case study to support that within-sentence reflexive binding obeys principles of Bayesian inference too. Meanwhile, although both SBM and RSA are Bayesian models, the statistical results in Table 1 show that RSA performs a little better while SBM overestimates the non-local antecedent choices and underestimates the local antecedent choices. The difference between two models is that listeners in SBM reason about the production of the pronoun directly using their own experience without encoding explicit the frequency of pronouns, while listeners in RSA are rational and reason indirectly by thinking about how a rational speaker would choose pronouns, and this rational speaker would explicitly take the frequency of pronouns into account (the Cost term in Formula 2). One possible explanation for this is that a multilevel recursive reasoning between listeners and speakers coupled with the explicitly encoded frequency of pronouns could enhance model predictions, leading to a better fit between RSA and the experimental data.</p>
+<h3 id="references">References</h3>
+<p>[1] Järvikivi, J., van Gompel, R. P., Hyönä, J., &amp; Bertram, R. (2005). Psychological Science.</p>
+<p>[2] Koornneef A. W., &amp; van Berkum J. J. A. (2006). Journal of Memory and Language.</p>
+<p>[3] Hobbs, J. R. (1979). Cognitive Science.</p>
+<p>[4] Frank, M. C., &amp; Goodman, N. D. (2012). Science.</p>
+<p>[5] Kehler, A, &amp; Rohde, H. (2013). Theoretical Linguistics.</p>
+<p>[6] Schulz, M., Burnett, H., &amp; Hemforth, B. (2021). A Journal of General Linguistics.</p>
+<p>[7] Zhan, M., Levy, R., Kehler, A. (2020). PLOS ONE.</p>
+<p>[8] Huang, C.-T. J., Li, Y.-h. A., &amp; Li, Y. (2009). Cambridge University Press.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/psycholinguistics/">Psycholinguistics</a>
+  
+  <a class="badge badge-light" href="/tag/computational-modeling/">Computational modeling</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/"><img class="avatar mr-3 avatar-circle" src="/author/avatar_hu21453082bee435f78174d97cd44ceab6_686022_270x270_fill_q90_lanczos_center.jpg" alt=""></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/"></a></h5>
+      
+      <p class="card-text">My research interests include computational linguistics, phonetics, and psycholinguistics.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/zhaofylisa" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/lisafzhao/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/zhaofylisa" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.735a6e30f8cd014083f9e1151ce4e415.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
