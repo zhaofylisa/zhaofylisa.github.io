@@ -5,9 +5,9 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2023 [FENGYUE ZHAO](https://zhaofylisa.github.io/). Template from [MATTEO COURTHOUD](https://matteocourthoud.github.io/post/website/)</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 [FENGYUE ZHAO](https://zhaofylisa.github.io/). Template from [MATTEO COURTHOUD](https://matteocourthoud.github.io/post/website/)</copyright>
     <image>
-      <url>/media/icon_hue854a9b30fb922fb3d3c3364522a6c71_5527420_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
