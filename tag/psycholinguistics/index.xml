@@ -5,9 +5,9 @@
     <link>/tag/psycholinguistics/</link>
       <atom:link href="/tag/psycholinguistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Psycholinguistics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 [FENGYUE ZHAO](https://zhaofylisa.github.io/). Template from [MATTEO COURTHOUD](https://matteocourthoud.github.io/post/website/)</copyright><lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 [FENGYUE ZHAO](https://zhaofylisa.github.io/). Template from [MATTEO COURTHOUD](https://matteocourthoud.github.io/post/website/)</copyright><lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu4a7792a5b89d60d6edad05c81af72e7d_1173232_512x512_fill_lanczos_center_3.png</url>
       <title>Psycholinguistics</title>
       <link>/tag/psycholinguistics/</link>
     </image>
@@ -18,7 +18,9 @@
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/project/rsa/</guid>
       <description>&lt;h3 id=&#34;probabilistic-listener-a-case-of-reflexive-ziji-self-ambiguity-resolution-in-mandarin&#34;&gt;Probabilistic Listener: A Case of Reflexive ziji &amp;ldquo;self&amp;rdquo; Ambiguity Resolution in Mandarin&lt;/h3&gt;
-&lt;p&gt;&lt;sup&gt; (This work was my honors thesis at UMass Amherst, and was advised by &lt;a href = &#34;https://www.umass.edu/linguistics/member/brian-dillon&#34;&gt; Dr. Brian Dillon &lt;/a&gt; and &lt;a href = &#34;https://linguistics.uchicago.edu/people/ming-xiang&#34;&gt; Dr. Ming Xiang &lt;/a&gt;.) &lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt; (This work was my honors thesis at UMass Amherst, and was advised by &lt;a href = &#34;https://www.umass.edu/linguistics/member/brian-dillon&#34;&gt; Dr. Brian Dillon &lt;/a&gt; and &lt;a href = &#34;https://linguistics.uchicago.edu/people/ming-xiang&#34;&gt; Dr. Ming Xiang &lt;/a&gt;.) &lt;/sup&gt;
+&lt;sup&gt; (This work was presented at 36th
+Annual Conference on Human Sentence Processing) &lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;What mechanisms do people use to resolve ambiguous pronouns? Prior studies have tried to identify factors that contribute to the resolution mechanisms, such as first-mention biases [1], verb semantics [2], and world knowledge[3]. These principles usually only make categorical predictions instead of continuous predictions about experimental data. Probabilistic models are another promising attempt [4][5][6][7]. This study aims to test the generality of two Bayesian models — the Simple Bayesian model (SBM) and the Rational Speech Act model (RSA) — on pronoun ambiguity resolution in Mandarin Chinese in the case of the reflexive pronoun ziji &amp;ldquo;self&amp;rdquo;. SBM has been examined to make good quantitative predictions for Chinese, but only for across-sentence relations in discourses with personal pronouns [7]. RSA has been examined in pronoun resolution in French and English [6]. This study provides cross-linguistic evidence to support both Bayesian models, investigating within-sentence relations with Chinese reflexive pronouns which are often considered to be regulated by a distinct set of grammatical principles than discourse anaphors.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;  (1)  [小红]i  说    [小明]j   总      把      [自己]i/j    弄糊涂。
       [Hong]i  says  [Ming]j always   BA     [ziji]i/j   confuses.
