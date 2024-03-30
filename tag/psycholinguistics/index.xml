@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psycholinguistics | Fengyue Zhao</title>
-    <link>/tag/psycholinguistics/</link>
-      <atom:link href="/tag/psycholinguistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaofylisa.github.io/tag/psycholinguistics/</link>
+      <atom:link href="https://zhaofylisa.github.io/tag/psycholinguistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Psycholinguistics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 [FENGYUE ZHAO](https://zhaofylisa.github.io/). Template from [MATTEO COURTHOUD](https://matteocourthoud.github.io/post/website/)</copyright><lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu4a7792a5b89d60d6edad05c81af72e7d_1173232_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zhaofylisa.github.io/images/icon_hu4a7792a5b89d60d6edad05c81af72e7d_1173232_512x512_fill_lanczos_center_3.png</url>
       <title>Psycholinguistics</title>
-      <link>/tag/psycholinguistics/</link>
+      <link>https://zhaofylisa.github.io/tag/psycholinguistics/</link>
     </image>
     
     <item>
       <title>Probabilistic Listener: A Case of Reflexive ziji &#39;self&#39; Ambiguity Resolution in Mandarin</title>
-      <link>/project/rsa/</link>
+      <link>https://zhaofylisa.github.io/project/rsa/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/project/rsa/</guid>
+      <guid>https://zhaofylisa.github.io/project/rsa/</guid>
       <description>&lt;h3 id=&#34;probabilistic-listener-a-case-of-reflexive-ziji-self-ambiguity-resolution-in-mandarin&#34;&gt;Probabilistic Listener: A Case of Reflexive ziji &amp;ldquo;self&amp;rdquo; Ambiguity Resolution in Mandarin&lt;/h3&gt;
 &lt;p&gt;&lt;sup&gt; (This work was my honors thesis at UMass Amherst, and was advised by &lt;a href = &#34;https://www.umass.edu/linguistics/member/brian-dillon&#34;&gt; Dr. Brian Dillon &lt;/a&gt; and &lt;a href = &#34;https://linguistics.uchicago.edu/people/ming-xiang&#34;&gt; Dr. Ming Xiang &lt;/a&gt;.) &lt;/sup&gt;
 &lt;br&gt;
@@ -27,11 +27,11 @@
       ‘[Hong]i says that [Ming]j always confuses [self]i/j.’
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;strong&gt;The resolution of reflexive ziji&lt;/strong&gt;: Reflexive in Mandarin may take a simplex form — ziji “self” which permits both local (e.g. Ming in 1) and non-local (e.g. Hong in 1) referent interpretation [8]. In Experiment 1 (Nsubj=135, Nitem=30), we measured Mandarin speakers’ preferences for resolving ziji in ambiguous sentences with an antecedent selection task. Stimuli have the sentence structure in (1), differing only in the verb. We found that comprehenders preferred local antecedents 59% of the time on average. This non-randomly distributed result showed that people have strategies to resolve this ambiguous reflexive. Moreover, the preference of non-local antecedents ranged between 9% and 88% across items. This non-uniform result showed that preferences and extent of preferences differ across stimuli items. Therefore, item-by-item quantitative analysis is necessary to test if two models can capture this item variation.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/files/RSA/RSA_pic1.png&#34; alt=&#34;Formulars&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zhaofylisa.github.io/files/RSA/RSA_pic1.png&#34; alt=&#34;Formulars&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Two Bayesian Models&lt;/strong&gt;: The Simple Bayesian model (SBM) models the listener’s probability of selecting  a specific referent as proportional to their prior that this referent will be mentioned next, and the likelihood that a speaker will produce this pronoun when signaling a specific referent (see Formula 1) [5]. The Rational Speech Act model (RSA) suggests that listeners assume speakers are rational agents who have already chosen the best utterance among all possible options to convey intended information. Listeners combine this recursive thinking with their prior world knowledge to interpret ambiguous pronouns (see Formula 2) [4]. To evaluate these models’ fit against our data, we estimated: P(referent) in both models in Experiment 2, a world knowledge bias test (Nsubj=28, Nitem=30); P(utterance | referent) in SBM in Experiment 3, a pronoun production task (Nsubj=65, Nitem=30); Cost(utterance) in RSA in a corpus study (Ntoken=16.5 billion) which is the logarithm of the frequency of each pronoun in a certain sentence structure. If listeners processing ambiguous pronouns follows SBM/RSA, there should be a strong correlation between the Experiment 1 results and SBM/RSA predictions.&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&#34;/files/RSA/RSA_pic2.png&#34; alt=&#34;Trulli&#34; style=&#34;width:50%&#34;&gt;
-&lt;img src=&#34;/files/RSA/RSA_pic3.png&#34; alt=&#34;Trulli&#34; style=&#34;width:50%&#34;&gt;
+&lt;img src=&#34;https://zhaofylisa.github.io/files/RSA/RSA_pic2.png&#34; alt=&#34;Trulli&#34; style=&#34;width:50%&#34;&gt;
+&lt;img src=&#34;https://zhaofylisa.github.io/files/RSA/RSA_pic3.png&#34; alt=&#34;Trulli&#34; style=&#34;width:50%&#34;&gt;
 &lt;figcaption align = &#34;center&#34;&gt;&lt;b&gt;Fig.1 - Fit RSA model predictions (top) and SBM model predictions (bottom) with experimental data from Experiment 1 on an item-by-item basis.&lt;/b&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;table&gt;
