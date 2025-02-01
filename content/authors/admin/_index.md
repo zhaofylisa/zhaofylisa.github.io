@@ -59,6 +59,58 @@ education:
     date_start: 2018
     date_end: 2022
 
+experience:
+  - company: UMass Amherst
+    company_url: ""
+    date_end: "2018-09-01"
+    date_start: "2018-12-01"
+    description: Tutored and designed learning materials for over 50 students.
+    title: Elementary Chinese Tutor
+
+  - company: UMass Amherst
+    company_url: ""
+    date_end: "2022-05-10"
+    date_start: "2021-08-31"
+    description: Organized tutoring sessions and exam reviews for over 150 students.
+    title: Calculus for Life and Social Sciences II 
+
+  - company: Cornell University
+    company_url: ""
+    date_end: "2023-12-10"
+    date_start: "2023-08-21"
+    description: Held office hours and exam reviews for over 300 students.
+    title: Introduction to Cognitive Science
+
+  - company: Cornell University
+    company_url: ""
+    date_end: "2024-05-30"
+    date_start: "2024-01-22"
+    description: Independently lead two lab sections of 15 students each.
+    title: Introduction to Phonetics and Phonology
+  
+  - company: Cornell University
+  company_url: ""
+  date_end: "2024-12-30"
+  date_start: "2024-08-22"
+  description: Instructor
+  title: Intermediate Chinese Reading and Writing for Students of Chinese Heritage
+  
+  - company: Cornell University
+  company_url: ""
+  date_end: "2025-05-30"
+  date_start: "2025-01-22"
+  title: Computational Linguistics 1
+
+  - company: Cornell University
+  company_url: ""
+  date_end: "2025-05-30"
+  date_start: "2025-01-22"
+  title: Computational Linguistics 1
+  ---
+
+
+
+
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
 # skills:
@@ -105,6 +157,7 @@ education:
 # #   Add/remove as many awards below as you like.
 # #   Only `title`, `awarder`, and `date` are required.
 # #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 # awards:
 #   - title: Neural Networks and Deep Learning
 #     url: https://www.coursera.org/learn/neural-networks-deep-learning
