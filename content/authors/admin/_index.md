@@ -15,8 +15,8 @@ role: PhD student in linguistics
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Department of Linguistics, Cornell University
-    url: https://linguistics.cornell.edu/
+  - name: fz227@cornell.edu
+    url: 'mailto:fz227@cornell.edu'
 
 # Social network links
 profiles:
