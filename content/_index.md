@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: teal
         image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
@@ -44,13 +44,14 @@ sections:
 #         Please reach out to collaborate 😃
 #     design:
 #       columns: '1'
+
   - block: collection
     id: papers
     content:
       title: Featured Projects
       filters:
         folders:
-          - Project
+          - project
         featured_only: true
     design:
       view: article-grid

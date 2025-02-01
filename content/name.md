@@ -1,12 +1,6 @@
 ---
 date: "2024-03-30T00:00:00Z"
-active: true
-headless: true
-title: About my name
-type: landing
-design:
-  # Section spacing
-  spacing: '5rem'
+title: My name
 ---
 
 <!-- <strong>About my name:</strong> -->

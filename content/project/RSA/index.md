@@ -42,12 +42,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "files/RSA/RSA_pdf.pdf"
+url_pdf: "uploads/RSA/RSA_pdf.pdf"
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: "files/RSA/RSA_poster.pdf"
+url_poster: "uploads/RSA/RSA_poster.pdf"
 # url_project: ''
-url_slides: "files/RSA/RSA_slides.pdf"
+url_slides: "uploads/RSA/RSA_slides.pdf"
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
 
@@ -86,7 +86,7 @@ What mechanisms do people use to resolve ambiguous pronouns? Prior studies have 
 
 **The resolution of reflexive ziji**: Reflexive in Mandarin may take a simplex form — ziji “self” which permits both local (e.g. Ming in 1) and non-local (e.g. Hong in 1) referent interpretation [8]. In Experiment 1 (Nsubj=135, Nitem=30), we measured Mandarin speakers’ preferences for resolving ziji in ambiguous sentences with an antecedent selection task. Stimuli have the sentence structure in (1), differing only in the verb. We found that comprehenders preferred local antecedents 59% of the time on average. This non-randomly distributed result showed that people have strategies to resolve this ambiguous reflexive. Moreover, the preference of non-local antecedents ranged between 9% and 88% across items. This non-uniform result showed that preferences and extent of preferences differ across stimuli items. Therefore, item-by-item quantitative analysis is necessary to test if two models can capture this item variation. 
 
-![Formulars](/files/RSA/RSA_pic1.png)
+![Formulars](/uploads/RSA/RSA_pic1.png)
 
 **Two Bayesian Models**: The Simple Bayesian model (SBM) models the listener’s probability of selecting  a specific referent as proportional to their prior that this referent will be mentioned next, and the likelihood that a speaker will produce this pronoun when signaling a specific referent (see Formula 1) [5]. The Rational Speech Act model (RSA) suggests that listeners assume speakers are rational agents who have already chosen the best utterance among all possible options to convey intended information. Listeners combine this recursive thinking with their prior world knowledge to interpret ambiguous pronouns (see Formula 2) [4]. To evaluate these models’ fit against our data, we estimated: P(referent) in both models in Experiment 2, a world knowledge bias test (Nsubj=28, Nitem=30); P(utterance | referent) in SBM in Experiment 3, a pronoun production task (Nsubj=65, Nitem=30); Cost(utterance) in RSA in a corpus study (Ntoken=16.5 billion) which is the logarithm of the frequency of each pronoun in a certain sentence structure. If listeners processing ambiguous pronouns follows SBM/RSA, there should be a strong correlation between the Experiment 1 results and SBM/RSA predictions.
 
@@ -102,8 +102,6 @@ What mechanisms do people use to resolve ambiguous pronouns? Prior studies have 
 |RSA| 0.674   | 0.006    | 0.048     |0.0002|
 
 <p style ="text-align: center;"><b><span style="font-size:0.8em">Table 1. R-squared, MSE, MAE, and P-value of the two models for model evaluations.</span></b></p>
-
-
 
 
 **Results and Discussions**: Item-by-item quantitative analysis in Fig.1 shows that both SBM and RSA can make accurate predictions for the resolution of the ambiguous pronoun ziji (R2>0.59, p<0.001), providing a case study to support that within-sentence reflexive binding obeys principles of Bayesian inference too. Meanwhile, although both SBM and RSA are Bayesian models, the statistical results in Table 1 show that RSA performs a little better while SBM overestimates the non-local antecedent choices and underestimates the local antecedent choices. The difference between two models is that listeners in SBM reason about the production of the pronoun directly using their own experience without encoding explicit the frequency of pronouns, while listeners in RSA are rational and reason indirectly by thinking about how a rational speaker would choose pronouns, and this rational speaker would explicitly take the frequency of pronouns into account (the Cost term in Formula 2). One possible explanation for this is that a multilevel recursive reasoning between listeners and speakers coupled with the explicitly encoded frequency of pronouns could enhance model predictions, leading to a better fit between RSA and the experimental data. 
