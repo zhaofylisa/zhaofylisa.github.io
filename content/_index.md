@@ -48,7 +48,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Projects
+      title: Selected Projects
       filters:
         folders:
           - project
