@@ -9,6 +9,10 @@ authors:
 
 draft: false
 date: '2024-12-30T00:00:00Z'
+
+# Display this page in the Featured widget?
+featured: true
+
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -33,10 +37,6 @@ tags:
   - Tones
   - Computational modeling
   
-
-# Display this page in the Featured widget?
-featured: false
-
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
