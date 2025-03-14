@@ -7,7 +7,7 @@ title: 'Distributional Learning Across Contexts: Learning Cantonese Tones in Nat
 authors:
   - admin
 
-draft: true
+draft: false
 date: '2024-12-30T00:00:00Z'
 # doi: ''
 
@@ -75,7 +75,7 @@ slides: ""
 ---
 
 <!-- <sup> - <strong>Fengyue Zhao</strong>, Sam Tilsen. Syllable Position Prominence in Unsupervised Neural Network Segment Categorization. LabPhon 19. June 27 - 29 2024. Hanyang University, Seoul, South Korea. </sup> -->
-
+<!-- 
 ## Motivation
 Infants initially discriminate most sound contrasts but quickly attune to those of their native language. This raises the question: how do infants identify the relevant acoustic dimensions for learning phonetic categories? The distributional learning account proposes that infants track the distribution of sounds, and identify acoustic dimensions as contrastive if their distribution has two or more distinct peaks (i.e. multimodal distributions) [1]. However, while multimodality appear in controlled experiments, they are rarely found in naturalistic, highly variable speech, suggesting that multimodality is not a reliable way to identify contrastive dimensions [2]. Recent work comparing languages with/without vowel length contrasts suggests that even without multimodality, contrastive dimensions show more contextual variability: when a dimension is contrastive, the shape of its distribution will vary more across contexts [3]. The distributional learning across contexts hypothesis proposes that infants utilize this contextual variability to distinguish phonetic categories. This study tests this hypothesis by examining Hong Kong Cantonese tones, exploring whether ease of acquiring different tonal contrasts is linked to their contextual variability in distribution shape. Cantonese serves as a valuable test case due to the overlapping acoustic distributions between its six tones: high-level (T1), high-rising (T2), mid-level (T3), low-falling (T4), low-rising (T5), and low-level (T6). 
 
@@ -118,4 +118,4 @@ This study explored the learning of multiple tone contrasts, a relatively unexpl
 
 [4] Yu, A., Delisle, N., Martin, N., Zhang, V., Yao, Y., & To, C. (2024). The Multi-ethnic Hong Kong Cantonese Corpus. CorpusPhon satellite workshop at LabPhon19. https://ccds.edu.hku.hk 
 
-[5] Mok, P. P. K., Fung, H. S. H., & Li, V. G. (2019). Assessing the Link Between Perception and Production in Cantonese Tone Acquisition. Journal of Speech, Language, and Hearing Research, 62(5), 1243–1257. https://doi.org/10.1044/2018_JSLHR-S-17-0430
+[5] Mok, P. P. K., Fung, H. S. H., & Li, V. G. (2019). Assessing the Link Between Perception and Production in Cantonese Tone Acquisition. Journal of Speech, Language, and Hearing Research, 62(5), 1243–1257. https://doi.org/10.1044/2018_JSLHR-S-17-0430 -->
