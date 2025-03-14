@@ -16,7 +16,7 @@ date: 2025-02-01
   Fall 2023，Cornell University, Instructor: Dr. Shaun Nichols.
 
 - **Calculus for Life and Social Sciences II**  
-  2021-2022，University of Massachusetts Amherst, Instructor: Dr. Hans Johnston.
+  Fall 2021, Spring 2022，University of Massachusetts Amherst, Instructor: Dr. Hans Johnston.
 
 - **Elementary Chinese**  
   Fall 2018，University of Massachusetts Amherst, Instructor: Yi Feng.

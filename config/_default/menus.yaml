@@ -28,6 +28,9 @@ main:
   - name: My name
     url: name
     weight: 50
+  # - name: CV
+  #   url: uploads/cv.pdf
+  #   weight: 70
   - name: CV
-    url: uploads/cv.pdf
-    weight: 70
+    url: CV
+    weight: 80
