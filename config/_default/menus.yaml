@@ -31,6 +31,6 @@ main:
   - name: CV
     url: uploads/cv.pdf
     weight: 70
-  - name: CV
-    url: CV
-    weight: 80
+  # - name: CV
+  #   url: CV
+  #   weight: 80
