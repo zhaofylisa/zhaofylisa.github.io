@@ -13,6 +13,20 @@
     </image>
     
     <item>
+      <title>Unpredictable Temporal Auditory Feedback Perturbation Induces Lengthening, Not Compensation</title>
+      <link>http://localhost:1313/project/tfp/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tfp/</guid>
+      <description>&lt;!-- 
+&lt;sup&gt; - &lt;strong&gt;Fengyue Zhao&lt;/strong&gt;, Sam Tilsen. Syllable Position Prominence in Unsupervised Neural Network Segment Categorization. LabPhon 19. June 27 - 29 2024. Hanyang University, Seoul, South Korea. &lt;/sup&gt; --&gt;
+&lt;p&gt;Temporal feedback perturbation (TFP) studies show that speakers can learn compensatory responses when the timing of the perturbation is predictable, and that phonological factors such as stress and segment identity can modulate the response. This study investigates whether similar response patterns occur when the timing of TFP relative to an utterance cannot be anticipated, which we refer to as &lt;strong&gt;unpredictable temporal feedback perturbation (UTFP).&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We applied subtle TFPs at random times within a phrase “I saw papa yesterday”, where “papa” was pronounced with either a strong-weak or weak-strong stress pattern. Seventeen native English speakers produced 280 utterances each, with perturbations occurring in 80% of trials. Each perturbation lasted 198 ms, with the first half slowed (rate = 0.56) and the second half sped up (rate = 5), consistent with previous studies. Crucially, unlike standard TFP, the timing of the perturbation was distributed randomly and approximately uniformly across the entire utterance, rather than targeting a specific segmental event.&lt;/p&gt;
+&lt;p&gt;Results revealed a response profile distinct from standard predictable TFP: (a) responses consistently resulted in lengthening, rather than shortening; (b) responses effects were largest 500 ms after perturbation onset, substantially later than those of compensatory responses to predictable TFP. Phonological modulation patterns resembled those in standard TFP experiments, with vowels exhibiting larger effects than consonants and larger effects in stressed syllables than unstressed ones.&lt;/p&gt;
+&lt;p&gt;These findings suggest that the speech motor control feedback system responds to TFP differently when perturbations are unpredictable, and yet is influenced by similar phonological factors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>http://localhost:1313/teaching/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
