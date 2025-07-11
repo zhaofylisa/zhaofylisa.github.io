@@ -11,12 +11,13 @@ last_name: Zhao
 superuser: true
 
 # Role/position/tagline
-role: PhD student in linguistics
+role: PhD candidate in linguistics
 
 # Organizations/Affiliations to display in Biography block
 organizations:
   - name: fz227@cornell.edu
     url: 'mailto:fz227@cornell.edu'
+    
 
 # Social network links
 profiles:
@@ -90,8 +91,13 @@ profiles:
 
 ## About Me
 
-Hi. My name is <strong>Fengyue (Lisa) Zhao</strong>. I am a third-year PhD student at the <a href="https://linguistics.cornell.edu/">Department of Linguistics, Cornell University</a>. My research interests lie in phonetics, phonology, computational linguistics, and psycholinguistics. I am part of the <a href="https://conf.ling.cornell.edu/">Cornell Phonetics Lab</a> and the <a href="https://c-psyd.github.io/">Computational Psycholinguistics Discussions research group</a>. 
+<span style="color: #F8F8F2;">
+Hi. My name is <strong>Fengyue (Lisa) Zhao</strong>. I am a fourth-year PhD candidate at the 
+<a href="https://linguistics.cornell.edu/" style="color: #AEDCF0;">Department of Linguistics, Cornell University</a>. 
+My research interests lie in phonetics, phonology, computational linguistics, and psycholinguistics. 
+I am part of the 
+<a href="https://conf.ling.cornell.edu/" style="color: #AEDCF0;">Cornell Phonetics Lab</a> and the 
+<a href="https://c-psyd.github.io/" style="color: #AEDCF0;">Computational Psycholinguistics Discussions research group</a>.
+</span>
 
-<p align="right">
-    <i>Updated February 2025</i>
-</p>
+<p align="right" style="color: #F8F8F2;"><i>Updated February 2025</i></p>

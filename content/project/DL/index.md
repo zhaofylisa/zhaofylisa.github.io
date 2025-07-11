@@ -7,11 +7,11 @@ title: 'Distributional Learning Across Contexts: Learning Cantonese Tones in Nat
 authors:
   - admin
 
-draft: true
+draft: false
 date: '2024-12-30T00:00:00Z'
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # doi: ''
 

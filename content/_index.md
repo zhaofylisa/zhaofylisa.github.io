@@ -21,13 +21,13 @@ sections:
     design:
       css_class: dark
       background:
-        color: teal
+        color: "#893F45"
         image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
           filename: 
           filters:
-            brightness: 1.0
+            brightness: 0.95
           size: cover
           position: center
           parallax: false
