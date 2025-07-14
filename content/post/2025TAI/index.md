@@ -1,6 +1,6 @@
 ---
 title: "🗣️ I gave a talk at TAI 2025!"
-date: 2025-05-09
+date: 2025-05-16
 share: false
 ---
 
