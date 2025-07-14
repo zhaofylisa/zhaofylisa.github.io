@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2025-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/2025interspeech/</loc>
+    <loc>https://example.com/post/2025interspeech/</loc>
     <lastmod>2025-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/2025bsmc/</loc>
+    <loc>https://example.com/post/2025bsmc/</loc>
     <lastmod>2025-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/2025a-exam/</loc>
+    <loc>https://example.com/post/2025a-exam/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/2025tai/</loc>
+    <loc>https://example.com/post/2025tai/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/auditory-feedback-perturbation/</loc>
+    <loc>https://example.com/tags/auditory-feedback-perturbation/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/online-control/</loc>
+    <loc>https://example.com/tags/online-control/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://example.com/project/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/temporal-feedback/</loc>
+    <loc>https://example.com/tags/temporal-feedback/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/tfp/</loc>
+    <loc>https://example.com/project/tfp/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://example.com/teaching/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/computational-modeling/</loc>
+    <loc>https://example.com/tags/computational-modeling/</loc>
     <lastmod>2024-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/distributional-learning/</loc>
+    <loc>https://example.com/tags/distributional-learning/</loc>
     <lastmod>2024-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/dl/</loc>
+    <loc>https://example.com/project/dl/</loc>
     <lastmod>2024-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/tones/</loc>
+    <loc>https://example.com/tags/tones/</loc>
     <lastmod>2024-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://example.com/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/name/</loc>
+    <loc>https://example.com/name/</loc>
     <lastmod>2024-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/phonological-categories/</loc>
+    <loc>https://example.com/tags/phonological-categories/</loc>
     <lastmod>2024-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/nn/</loc>
+    <loc>https://example.com/project/nn/</loc>
     <lastmod>2024-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/unsupervised-learning/</loc>
+    <loc>https://example.com/tags/unsupervised-learning/</loc>
     <lastmod>2024-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/rsa/</loc>
+    <loc>https://example.com/project/rsa/</loc>
     <lastmod>2023-03-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/psycholinguistics/</loc>
+    <loc>https://example.com/tags/psycholinguistics/</loc>
     <lastmod>2023-03-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://example.com/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

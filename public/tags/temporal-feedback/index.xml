@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Temporal Feedback | Fengyue Zhao</title>
-    <link>http://localhost:1313/tags/temporal-feedback/</link>
-      <atom:link href="http://localhost:1313/tags/temporal-feedback/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/temporal-feedback/</link>
+      <atom:link href="https://example.com/tags/temporal-feedback/index.xml" rel="self" type="application/rss+xml" />
     <description>Temporal Feedback</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_88080d99dd003e3b.png</url>
+      <url>https://example.com/media/icon_hu_88080d99dd003e3b.png</url>
       <title>Temporal Feedback</title>
-      <link>http://localhost:1313/tags/temporal-feedback/</link>
+      <link>https://example.com/tags/temporal-feedback/</link>
     </image>
     
     <item>
       <title>Unpredictable Temporal Auditory Feedback Perturbation Induces Lengthening, Not Compensation</title>
-      <link>http://localhost:1313/project/tfp/</link>
+      <link>https://example.com/project/tfp/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tfp/</guid>
+      <guid>https://example.com/project/tfp/</guid>
       <description>&lt;!-- 
 &lt;sup&gt; - &lt;strong&gt;Fengyue Zhao&lt;/strong&gt;, Sam Tilsen. Syllable Position Prominence in Unsupervised Neural Network Segment Categorization. LabPhon 19. June 27 - 29 2024. Hanyang University, Seoul, South Korea. &lt;/sup&gt; --&gt;
 &lt;p&gt;Temporal feedback perturbation (TFP) studies show that speakers can learn compensatory responses when the timing of the perturbation is predictable, and that phonological factors such as stress and segment identity can modulate the response. This study investigates whether similar response patterns occur when the timing of TFP relative to an utterance cannot be anticipated, which we refer to as &lt;strong&gt;unpredictable temporal feedback perturbation (UTFP).&lt;/strong&gt;&lt;/p&gt;
