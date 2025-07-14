@@ -7,6 +7,7 @@
 appearance:
   mode: system
   color: emerald
+  font_size: M
 
 # SEO
 marketing:
@@ -33,7 +34,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: "Fengyue Zhao"
 
@@ -54,6 +55,8 @@ locale:
 
 # Site features
 features:
+  custom_css:
+      - css/custom.css
   math:
     enable: false
   privacy_pack:

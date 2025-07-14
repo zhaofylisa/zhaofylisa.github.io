@@ -1,6 +1,7 @@
 ---
 title: 'Teaching'
 date: 2025-02-01
+share: false
 ---
 
 - **<a href="/uploads/syllabus/cl1.pdf" target="_blank">Computational Linguistics 1</a>**  

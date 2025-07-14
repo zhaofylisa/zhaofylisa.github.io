@@ -8,6 +8,7 @@ design:
   # Default section spacing
   spacing: "6rem"
 
+
 sections:
   - block: resume-biography-3
     content:
@@ -20,6 +21,8 @@ sections:
         url: uploads/cv.pdf
     design:
       css_class: dark
+      spacing:
+        padding: [30px, 0,80px, 100px]
       background:
         color: "#893F45"
         image:
@@ -45,18 +48,38 @@ sections:
 #     design:
 #       columns: '1'
 
+
   - block: collection
-    id: papers
+    id: news
     content:
-      title: Selected Projects
+      title: Recent News
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
       filters:
-        folders:
-          - project
-        featured_only: true
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
-      view: article-grid
-      columns: 4
-  
+      # Choose a layout view
+      # view: date-title-summary
+      view: community/date-title
+      # # Reduce spacing
+      spacing:
+        padding: [50px, 0, 20px, 0]
+
 #   - block: collection
 #     content:
 #       title: Recent Publications
@@ -67,6 +90,25 @@ sections:
 #         exclude_featured: false
 #     design:
 #       view: citation
+      
+  - block: collection
+    id: papers
+    content:
+      title: Selected Projects
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      view: article-grid
+      # view: citation
+      columns: 4
+      # Reduce spacing
+      # spacing:
+      #   padding: ['0', '0', '0', '0']
+
+
+
 #   - block: collection
 #     id: talks
 #     content:
@@ -77,35 +119,7 @@ sections:
 #     design:
 #       view: article-grid
 #       columns: 1
-#   - block: collection
-#     id: news
-#     content:
-#       title: Recent News
-#       subtitle: ''
-#       text: ''
-#       # Page type to display. E.g. post, talk, publication...
-#       page_type: post
-#       # Choose how many pages you would like to display (0 = all pages)
-#       count: 5
-#       # Filter on criteria
-#       filters:
-#         author: ""
-#         category: ""
-#         tag: ""
-#         exclude_featured: false
-#         exclude_future: false
-#         exclude_past: false
-#         publication_type: ""
-#       # Choose how many pages you would like to offset by
-#       offset: 0
-#       # Page order: descending (desc) or ascending (asc) date.
-#       order: desc
-#     design:
-#       # Choose a layout view
-#       view: date-title-summary
-#       # Reduce spacing
-#       spacing:
-#         padding: [0, 0, 0, 0]
+
 #   - block: cta-card
 #     demo: true # Only display this section in the Hugo Blox Builder demo site
 #     content:

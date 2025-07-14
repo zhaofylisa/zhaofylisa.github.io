@@ -3,7 +3,7 @@
 title: Fengyue Zhao
 name_pronunciation: 赵丰悦
 
-# Full name (for SEO)
+# Full name
 first_name: Fengyue Lisa
 last_name: Zhao
 
@@ -11,7 +11,7 @@ last_name: Zhao
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in linguistics
+role: PhD Candidate in linguistics
 
 # Organizations/Affiliations to display in Biography block
 organizations:
@@ -92,12 +92,12 @@ profiles:
 ## About Me
 
 <span style="color: #F8F8F2;">
-Hi. My name is <strong>Fengyue (Lisa) Zhao</strong>. I am a fourth-year PhD candidate at the 
-<a href="https://linguistics.cornell.edu/" style="color: #AEDCF0;">Department of Linguistics, Cornell University</a>. 
+Hi! I'm <strong>Fengyue (Lisa) Zhao</strong>, a fourth-year PhD candidate in the 
+<a href="https://linguistics.cornell.edu/" style="color: #AEDCF0;"target="_blank" rel="noopener">Department of Linguistics at Cornell University</a>. 
 My research interests lie in phonetics, phonology, computational linguistics, and psycholinguistics. 
 I am part of the 
-<a href="https://conf.ling.cornell.edu/" style="color: #AEDCF0;">Cornell Phonetics Lab</a> and the 
-<a href="https://c-psyd.github.io/" style="color: #AEDCF0;">Computational Psycholinguistics Discussions research group</a>.
+<a href="https://conf.ling.cornell.edu/" style="color: #AEDCF0;"target="_blank" rel="noopener">Cornell Phonetics Lab</a> and the 
+<a href="https://c-psyd.github.io/" style="color: #AEDCF0;"target="_blank" rel="noopener">Computational Psycholinguistics Discussions research group</a>.
 </span>
 
-<p align="right" style="color: #F8F8F2;"><i>Updated February 2025</i></p>
+<p align="right" style="color: #F8F8F2;"><i>Updated July 2025</i></p>

@@ -1,0 +1,124 @@
+/* Set base typography similar to Matteo Courthoud's site */
+html {
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+               'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif,
+               'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 18px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+h2.text-lg {
+  font-size: 16px;
+}
+h1.text-4xl {
+  font-size: 30px;
+}
+.prose-slate {
+  font-size: 18px;
+}
+
+a[href^="mailto:"] {
+  color: inherit; /* reset base color */
+  text-decoration: none; /* optional */
+}
+
+a[href^="mailto:"] > svg {
+  color: inherit; /* keep icon default color */
+}
+
+a[href^="mailto:"] > div {
+  color: #AEDCF0; /* style only the text container */
+}
+
+
+/* Override mt-2 (margin-top: 0.5rem) */
+.mt-16 {
+  margin-top: 1rem !important; /* smaller margin */
+}
+
+.prose a:hover,
+.prose a:focus {
+  color: rgb(137, 63, 69) !important;  /* your desired hover color */
+  text-decoration-color: rgb(137, 63, 69) !important;
+  outline: none; /* optional: remove focus outline if undesired */
+  cursor: pointer;
+}
+
+
+:root {
+  --color-primary-100: 215 161 163;  
+  --color-primary-200: 215 161 163; /* #D7A1A3 */
+  --color-primary-300: 137 63 69;  /* #893F45 */
+  --color-primary-400: 137 63 69;
+  --color-primary-700: 137 63 69;  /* #893F45 */
+  --color-primary-800: 137 63 69;
+  --color-primary-900: 137 63 69;
+}
+
+.no-underline.bg-primary-100.hover\:bg-primary-300.text-primary-800.text-xs.font-medium.mr-2.px-2\.5.py-0\.5.lg\:px-5.lg\:py-2.rounded.dark\:bg-primary-900.dark\:hover\:bg-primary-700.dark\:text-primary-300 {
+  color: rgb(255, 255, 240) !important;
+  background-color: rgb(137, 63, 69) !important; /* lighter red */
+}
+
+.no-underline.bg-primary-100.hover\:bg-primary-300.text-primary-800.text-xs.font-medium.mr-2.px-2\.5.py-0\.5.lg\:px-5.lg\:py-2.rounded.dark\:bg-primary-900.dark\:hover\:bg-primary-700.dark\:text-primary-300:hover {
+  color: rgb(255, 255, 240) !important;
+  background-color: rgb(137, 63, 69) !important; /* lighter red */
+}
+
+.hb-attachment-link.hb-attachment-large {
+  color: rgb(137, 63, 69);
+  text-decoration-color: rgb(137, 63, 69);
+  font-weight: 500; /* optional, if you want it similar to prose links */
+}
+
+.hb-attachment-link.hb-attachment-large:hover {
+  color: rgb(110, 50, 55); /* a darker red for hover effect */
+  text-decoration-color: rgb(110, 50, 55);
+  cursor: pointer;
+}
+
+
+
+p.line-clamp-3 {
+  display: none;
+}
+
+
+
+
+.nav-link:hover {
+  color: #893F45 !important;
+}
+
+.group:hover .group-hover\:bg-solid {
+  background-color: #D7A1A3;
+  transition: background-color 0.5s cubic-bezier(.4, 0, .2, 1);
+}
+
+.powered-by {
+  display: none !important;
+}
+
+/* For the element with background highlight */
+.element-selector {
+  background-image: linear-gradient(to right, rgb(215, 161, 163), rgb(215, 161, 163));
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 50% 5px;  /* narrower and thinner */
+  font-size: 16px;           /* smaller font */
+  font-weight: 600;
+  letter-spacing: -0.5px;
+  line-height: 22px;
+  transition-property: background-size;
+  transition-duration: 0.5s;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+
+.flex.max-w-3xl.flex-col.space-y-16 > * + * {
+  margin-top: 1rem !important; /* or any smaller value */
+}
+
+
+
