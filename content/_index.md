@@ -22,7 +22,7 @@ sections:
     design:
       css_class: dark
       spacing:
-        padding: [30px, 0,80px, 100px]
+        padding: [30px, 0, 80px, 0]
       background:
         color: "#893F45"
         image:
