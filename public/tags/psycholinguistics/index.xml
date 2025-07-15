@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psycholinguistics | Fengyue Zhao</title>
-    <link>https://example.com/tags/psycholinguistics/</link>
-      <atom:link href="https://example.com/tags/psycholinguistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/psycholinguistics/</link>
+      <atom:link href="http://localhost:1313/tags/psycholinguistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Psycholinguistics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_88080d99dd003e3b.png</url>
+      <url>http://localhost:1313/media/icon_hu_88080d99dd003e3b.png</url>
       <title>Psycholinguistics</title>
-      <link>https://example.com/tags/psycholinguistics/</link>
+      <link>http://localhost:1313/tags/psycholinguistics/</link>
     </image>
     
     <item>
       <title>Probabilistic Listener: A Case of Reflexive ziji &#34;self&#34; Ambiguity Resolution in Mandarin</title>
-      <link>https://example.com/project/rsa/</link>
+      <link>http://localhost:1313/project/rsa/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/rsa/</guid>
+      <guid>http://localhost:1313/project/rsa/</guid>
       <description>&lt;p&gt;&lt;sup&gt; (This work was my honors thesis at UMass Amherst, and was advised by &lt;a href = &#34;https://www.umass.edu/linguistics/member/brian-dillon&#34;&gt; Dr. Brian Dillon &lt;/a&gt; and &lt;a href = &#34;https://linguistics.uchicago.edu/people/ming-xiang&#34;&gt; Dr. Ming Xiang &lt;/a&gt;.) &lt;/sup&gt;
 &lt;br&gt;
 &lt;sup&gt; - &lt;strong&gt;Fengyue Zhao&lt;/strong&gt;, Brian Dillon, Ming Xiang. Probabilistic Listener: A Case of Chinese Mandarin Reflexive ziji. Ambiguity Resolution. 36th Annual Conference on Human Sentence Processing. March 9 - 11 2023. University of Pittsburgh, Pittsburgh, PA. &lt;/sup&gt;&lt;/p&gt;
@@ -45,14 +45,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/RSA/RSA_pic1.png&#34; alt=&#34;Formulars&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/RSA/RSA_pic1.png&#34; alt=&#34;Formulars&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;two-bayesian-models&#34;&gt;Two Bayesian Models&lt;/h2&gt;
 &lt;p&gt;The Simple Bayesian model (SBM) models the listener’s probability of selecting  a specific referent as proportional to their prior that this referent will be mentioned next, and the likelihood that a speaker will produce this pronoun when signaling a specific referent (see Formula 1) [5]. The Rational Speech Act model (RSA) suggests that listeners assume speakers are rational agents who have already chosen the best utterance among all possible options to convey intended information. Listeners combine this recursive thinking with their prior world knowledge to interpret ambiguous pronouns (see Formula 2) [4]. To evaluate these models’ fit against our data, we estimated: P(referent) in both models in Experiment 2, a world knowledge bias test (Nsubj=28, Nitem=30); P(utterance | referent) in SBM in Experiment 3, a pronoun production task (Nsubj=65, Nitem=30); Cost(utterance) in RSA in a corpus study (Ntoken=16.5 billion) which is the logarithm of the frequency of each pronoun in a certain sentence structure. If listeners processing ambiguous pronouns follows SBM/RSA, there should be a strong correlation between the Experiment 1 results and SBM/RSA predictions.&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&#34;https://example.com/uploads/RSA/RSA_pic2.png&#34; alt=&#34;Trulli&#34; style=&#34;width:50%&#34;&gt;
-&lt;img src=&#34;https://example.com/uploads/RSA/RSA_pic3.png&#34; alt=&#34;Trulli&#34; style=&#34;width:50%&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/RSA/RSA_pic2.png&#34; alt=&#34;Trulli&#34; style=&#34;width:50%&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/uploads/RSA/RSA_pic3.png&#34; alt=&#34;Trulli&#34; style=&#34;width:50%&#34;&gt;
 &lt;figcaption align = &#34;center&#34;&gt;&lt;b&gt;Fig.1 - Fit RSA model predictions (top) and SBM model predictions (bottom) with experimental data from Experiment 1 on an item-by-item basis.&lt;/b&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;table&gt;
