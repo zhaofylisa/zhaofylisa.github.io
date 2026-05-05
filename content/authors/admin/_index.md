@@ -92,7 +92,7 @@ profiles:
 ## About Me
 
 <span style="color: #F8F8F2;">
-Hi! I'm <strong>Fengyue (Lisa) Zhao</strong>, a fourth-year PhD candidate in the 
+Hi! I'm <strong>Fengyue Lisa Zhao</strong>, a fourth-year PhD candidate in the 
 <a href="https://linguistics.cornell.edu/" style="color: #AEDCF0;"target="_blank" rel="noopener">Department of Linguistics at Cornell University</a>. 
 My research interests lie in phonetics, phonology, computational linguistics, and psycholinguistics. 
 I am part of the 
@@ -100,4 +100,4 @@ I am part of the
 <a href="https://c-psyd.github.io/" style="color: #AEDCF0;"target="_blank" rel="noopener">Computational Psycholinguistics Discussions research group</a>.
 </span>
 
-<p align="right" style="color: #F8F8F2;"><i>Updated July 2025</i></p>
+<p align="right" style="color: #F8F8F2;"><i>Updated May 2026</i></p>

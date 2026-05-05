@@ -1,8 +1,10 @@
 ---
 title: 'Teaching'
-date: 2025-02-01
+date: 2026-05-04
 share: false
 ---
+- **<a href="/uploads/syllabus/ling1101.pdf" target="_blank"> Introduction to Linguistics </a>**  
+  Fall 2026, Cornell University.
 
 - **<a href="/uploads/syllabus/cl1.pdf" target="_blank">Computational Linguistics 1</a>**  
   Spring 2025, Cornell University.

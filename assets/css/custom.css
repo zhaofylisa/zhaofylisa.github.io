@@ -39,7 +39,7 @@ a[href^="mailto:"] > div {
 
 .prose a:hover,
 .prose a:focus {
-  color: rgb(137, 63, 69) !important;  /* your desired hover color */
+  color: #F2C4C7 !important;  /* your desired hover color */
   text-decoration-color: rgb(137, 63, 69) !important;
   outline: none; /* optional: remove focus outline if undesired */
   cursor: pointer;

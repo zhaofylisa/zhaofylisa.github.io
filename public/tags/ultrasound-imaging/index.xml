@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ultrasound Imaging | Fengyue Lisa Zhao</title>
+    <link>http://localhost:1313/tags/ultrasound-imaging/</link>
+      <atom:link href="http://localhost:1313/tags/ultrasound-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ultrasound Imaging</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_88080d99dd003e3b.png</url>
+      <title>Ultrasound Imaging</title>
+      <link>http://localhost:1313/tags/ultrasound-imaging/</link>
+    </image>
+    
+    <item>
+      <title>Laryngeal Elevation in Native and Non-native Lexical Tone Production</title>
+      <link>http://localhost:1313/project/ultrasoundtones/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/ultrasoundtones/</guid>
+      <description>&lt;p&gt;&lt;sup&gt; - &lt;strong&gt;Fengyue Lisa Zhao&lt;/strong&gt;, Sam Tilsen, &amp;amp; Mark Tiede. Laryngeal elevation in native and non-native lexical tone production. 190th Meeting of the Acoustical Society of America. May 11 – 15, 2026. Philadelphia, PA, USA. &lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt; - &lt;strong&gt;Fengyue Lisa Zhao&lt;/strong&gt;, Sam Tilsen, &amp;amp; Mark Tiede. Laryngeal elevation in native and non-native lexical tone production. LabPhon 20. June 26 – 28, 2026. Montréal, Québec, Canada. &lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Prior acoustic studies have found differences between native and non-native speakers in precision of lexical tone production, but corresponding differences in articulatory mechanisms remain underexplored. This study presents a novel comparison of laryngeal elevation in native and non-native speakers during tone production using coronal-orientation laryngeal ultrasound. Both laryngeal elevation and cricothyroid contraction can contribute to vocal fold tension and thus f0 modulation [1, 2], yet their relative roles have been difficult to assess, mostly due to methodological challenges. We hypothesized that native and non-native speakers differ in their reliance on extrinsic (laryngeal elevation) versus intrinsic (cricothyroid) mechanisms of f0 control to produce tone contrasts, with native speakers relying more on intrinsic control and non-native speakers more on extrinsic control. This predicts weaker correlations between laryngeal elevation and f0 in native speakers than in non-native speakers. Our results support this prediction and suggest a broader acquisition pattern: learning to produce tones may involve reweighting articulatory strategies, shifting from general extrinsic mechanisms toward intrinsic control.&lt;/p&gt;
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
+&lt;p&gt;Four participants were tested: two speakers of languages without lexical tone and two native Mandarin speakers. The non-native speakers were phonetically trained and produced Mandarin tones on the basis of standard numeral representations. The ultrasound probe was held by the participant at the right thyroid lamina in a coronal orientation to capture vertical laryngeal movement, following the protocol in [1, 3, 4]. Synchronized audio and laryngeal ultrasound (with a standard clinical convex probe, 90-100 fps) were recorded simultaneously. All participants completed blocks of high-to-low (HL) and low-to-high (LH) pitch sweeps along with repetitions of four Mandarin tones in the syllable ma. Two approaches were used to infer laryngeal elevation from ultrasound images: (i) image pixel intensity centroid, and (ii) weighted sum of pixel intensity sampled on a semipolar image grid, with weights from averages of lasso regressions predicting f0.  Figure 1 shows representative frames from an HL sweep, along with f0 and intensity centroid, confirming that changes in intensity centroid values reflect f0 movement in sweeps. Figure 2 shows example f0 trajectories and laryngeal-elevation traces from the lasso-based method for one native and one non-native male speaker. The lasso-based method was found to effectively identify image regions most predictive of f0, reducing noise from irrelevant portions of the ultrasound field.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;http://localhost:1313/uploads/ultrasoundTones/method.png&#34;/&gt;
+  &lt;figcaption&gt;Figure 1. Two laryngeal ultrasound frames an HL pitch sweep. Changes in intensity centroid values (red) reflect f0 movement (black).&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;http://localhost:1313/uploads/ultrasoundTones/method2.png&#34;/&gt;
+  &lt;figcaption&gt;Figure 2. Example f0 trajectories and elevation index values from lasso-based method for a native (S03) and a non-native (S04) speaker. Horizontal bars at the top show durational differences between tones.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Preliminary analyses with both measures replicate the general pattern reported in [1]: larynx elevation is positively correlated with f0 across tasks. Figure 3a presents correlation coefficients between the centroid-based laryngeal elevation measure and f0 for each participant. The two female speakers showed higher correlations than the two male speakers, a pattern opposite to that reported in [1]. Crucially, Figure 3b compares correlations between sweeps and tones. Native speakers show stronger correlations between laryngeal elevation and f0 in sweeps than in tones, whereas non-native speakers show either weaker or the opposite effect. Under the assumption that the elevation-f0 correlation for sweeps provides a reference value for utilization of laryngeal elevation, the greater reduction in correlation from sweeps to tones observed in native vs. non-native speakers indicates that in the course of learning native speakers of tone languages may come to rely less on extrinsic laryngeal elevation and more on intrinsic muscle activity (e.g., cricothyroid manipulation) to produce tones than their non-native counterparts. Overall, these findings support a role for laryngeal elevation in tone production, while also motivating a broader hypothesis: speech learning may involve a shift in synergistic organization across articulatory mechanisms. This hypothesis can be tested in future work with larger samples.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;http://localhost:1313/uploads/ultrasoundTones/result.png&#34;/&gt;
+  &lt;figcaption&gt;Figure 3. (a) Correlation between laryngeal elevation (centroid-based) and f0 for each participant across sweeps and tones. 
+  (b) Difference in correlations between sweeps and tones; positive values indicate a greater correlation in weeps than in tones.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Moisik, S. R., Lin, H., &amp;amp; Esling, J. H. (2014). A study of laryngeal gestures in Mandarin citation tones using simultaneous laryngoscopy and laryngeal ultrasound (SLLUS).&lt;/p&gt;
+&lt;p&gt;[2] Honda, K., Hirai, H., Masaki, S., &amp;amp; Shimada, Y. (1999). Role of Vertical Larynx Movement and Cervical Lordosis in F0 Control.&lt;/p&gt;
+&lt;p&gt;[3] Brunelle, M., Schweizer, D., &amp;amp; Ahn, S. (2025). An ultrasound study of the role of larynx height and tongue movement in the production of Javanese registers.&lt;/p&gt;
+&lt;p&gt;[4] Schweizer, D., Brunelle, M., Ahn, S., &amp;amp; Audet, A. (2025). A laryngeal and lingual ultrasound study of the Canadian French voicing contrast.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

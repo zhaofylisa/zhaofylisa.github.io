@@ -2,6 +2,7 @@
 title: "🎉 I passed my second qualifying exam and became a phd candidate!"
 date: 2025-05-09
 share: false
+featured: false
 ---
 
 In May 2025, I successfully passed my second qualifying exam and officially advanced to PhD candidacy in Linguistics at Cornell University.

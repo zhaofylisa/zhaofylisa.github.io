@@ -1,5 +1,5 @@
 ---
-title: 'Unpredictable Temporal Auditory Feedback Perturbation Induces Lengthening, Not Compensation'
+title: 'Unpredictable Temporal Feedback Perturbation Dissociates Mismatch Detection from Correction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

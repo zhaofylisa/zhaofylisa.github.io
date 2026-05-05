@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Temporal Feedback | Fengyue Zhao</title>
+    <title>Temporal Feedback | Fengyue Lisa Zhao</title>
     <link>http://localhost:1313/tags/temporal-feedback/</link>
       <atom:link href="http://localhost:1313/tags/temporal-feedback/index.xml" rel="self" type="application/rss+xml" />
     <description>Temporal Feedback</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Unpredictable Temporal Auditory Feedback Perturbation Induces Lengthening, Not Compensation</title>
+      <title>Unpredictable Temporal Feedback Perturbation Dissociates Mismatch Detection from Correction</title>
       <link>http://localhost:1313/project/tfp/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/tfp/</guid>

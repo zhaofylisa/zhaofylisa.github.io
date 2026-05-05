@@ -36,12 +36,12 @@ header:
     show_search: true
     show_theme_chooser: false
     logo:
-      text: "Fengyue Zhao"
+      text: "Fengyue Lisa Zhao"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Fengyue Zhao.'
+    notice: '© {year} Fengyue Lisa Zhao.'
     license:
       enable: false
       allow_derivatives: false
